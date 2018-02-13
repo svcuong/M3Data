@@ -24,3 +24,7 @@ are saved as follows:
 
 ![m3ci](https://user-images.githubusercontent.com/31816408/36041990-6db75170-0ddb-11e8-9660-484902fb7a5e.JPG)
 
+
+Time series + Forecasts of 3003 time series of M3-Competition using ARIMA model with Rolling-Origin and Interval Forecasts 
+are saved as follows:
+![capture](https://user-images.githubusercontent.com/31816408/36153240-a848ce26-10de-11e8-9967-a1683f0b489a.JPG)
